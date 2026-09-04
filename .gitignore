@@ -1,4 +1,4 @@
 backend/.env
 frontend/.env
 backend/venv
-backend/sqlite.db
+backend/sqlite3.db
